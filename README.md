@@ -6,7 +6,7 @@ Each program is stored with:
 - a **`.java` file** → contains the Java source code  
 - a **`.md` file** → explains the concept of the number, definition, and logic  
 
-Currently, the repository focuses on **Number Programs**. More sections will be added later.
+Currently, the repository focuses on **Number Programs**. More sections will be added later. 
 
 ---
 
