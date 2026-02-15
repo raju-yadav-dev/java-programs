@@ -17,4 +17,10 @@ class PalindromeNumber
         else
             return false;
     }
+    public static void main(String[] args) {
+        PalindromeNumber Palindrome=new PalindromeNumber();
+        System.out.println((Palindrome.isPalindrome(121))?"121 is a Palindrome number":"121 is not a Palindrome number");
+        System.out.println((Palindrome.isPalindrome(-121))?"-121 is a Palindrome number":"-121 is not a Palindrome number");
+        System.out.println((Palindrome.isPalindrome(10))?"10 is a Palindrome number":"10 is not a Palindrome number");
+    }
 }

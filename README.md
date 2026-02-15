@@ -17,17 +17,10 @@ java-programs/
 │  
 ├── Number_Programs/  
 │   ├── Duck_Number.java  
-│   ├── Duck_Number.md  
-│   │  
-│   ├── Automorphic_Number.java  
-│   ├── Automorphic_Number.md  
-│   │  
+│   ├── Automorphic_Number.java   
 │   ├── Armstrong_Number.java  
-│   ├── Armstrong_Number.md  
-│   │  
 │   ├── Palindrome_Number.java  
-│   ├── Palindrome_Number.md  
-│   │  
+│   ├── READMe.md 
 │   └── ...  
 │  
 ├── String_Programs/          (Coming Soon)  
