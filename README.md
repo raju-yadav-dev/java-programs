@@ -12,7 +12,7 @@ Currently, the repository focuses on **Number Programs**. More sections will be 
 
 ## 📂 Repository Structure
 
-
+```
 java-programs/  
 │  
 ├── Number_Programs/  
@@ -27,7 +27,7 @@ java-programs/
 ├── Array_Programs/           (Coming Soon)  
 ├── DataCollection_Programs/  (Coming Soon)  
 └── README.md  
-  
+  ```
 ---
 
 ### 🔢 Number Programs (Current Section)
